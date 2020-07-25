@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on NodeJs, React Native
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on projects for church
 - 📫 reach me: thelordsservant@ptotonmail.com
 
 <!--
